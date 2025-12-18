@@ -1,4 +1,4 @@
-## Project: Bikeshare Data Exploration
+## Project: Bikeshare Data Exploration By Pravalika N S
 
 ### 1. Project Overview
 This project loads and analyzes bikeshare trip data for three major US cities (Chicago, New York City, and Washington). It computes and displays descriptive statistics on the trip durations, popular travel times, common stations and routes, and user demographics.
